@@ -1,4 +1,4 @@
-# Proyecto Java en NetBeans
+# Miniserializador JSON en NetBeans
 
 ## 📌 Descripción
 Este proyecto está desarrollado en **Java** utilizando el entorno de desarrollo integrado (IDE) **NetBeans**.  
