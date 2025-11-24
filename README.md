@@ -7,10 +7,8 @@ El objetivo de este README es guiar al usuario en la instalación, configuració
 ---
 
 ## ⚙️ Requisitos previos
-- **Java JDK 17+** (o la versión requerida por el proyecto).
+- **Java JDK 17+**.
 - **NetBeans IDE 12+** (compatible con la versión de JDK).
-- [Opcional] Servidor de base de datos (ej. MySQL/PostgreSQL) si el proyecto lo necesita.
-- Conexión a internet para descargar dependencias externas.
 
 ---
 
@@ -34,14 +32,7 @@ El objetivo de este README es guiar al usuario en la instalación, configuració
 - Selecciona la carpeta del proyecto (NombreDelProyecto).
 - NetBeans reconocerá automáticamente la estructura del proyecto.
 
-### 4. Configurar librerías externas
-- Si el proyecto usa librerías externas (ej. .jar):
-- Haz clic derecho sobre el proyecto → Properties.
-- Ve a Libraries → Add JAR/Folder.
-- Añade los archivos .jar necesarios.
-
-
-### 5. Compilar y ejecutar
+### 4. Compilar y ejecutar
 - Haz clic derecho sobre el proyecto → Clean and Build.
 - Luego selecciona Run Project (o presiona F6).
 - La salida aparecerá en la consola de NetBeans.
